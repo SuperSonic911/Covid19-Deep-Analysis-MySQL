@@ -2,7 +2,7 @@
 
 This data set was cleaned using MySQL workbench.
 
-### Final look at the dashboard:
+### A refined query:
 
 ![Workbench](workbench.jpg "Workbench")
 
