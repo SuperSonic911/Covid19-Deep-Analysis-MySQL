@@ -40,8 +40,26 @@ Please note that the CSV files must be present in a similar file path as specifi
 ![konbert](konbert.jpg "konbert")
 I inserted the query the website gave me, and there are now two main tables, coviddeaths, covidvaccinations. Both were loaded the same way.
 
-### 2. Working with the data:
+### Working with the data:
 Further analysis of the data can be done by querying the coviddeaths and covidvaccinations tables in MySQL. The SQL queries used in this analysis can be found in the script file.
+
+### Tableau Dashboard:
+
+![dashboard](Dashboard.jpg "dashboard")
+This Tableau dashboard showcases visualizations for four queries that were pulled from the "tableau_queries.sql" file. Each query has its own visualization that has been thoughtfully selected, including a heat map, a lollipop chart, and a line chart for each country.
+
+The final dashboard has been designed to have a modern and appealing look, with all visualizations combined into one cohesive dashboard for easy viewing and analysis.
+
+Features
+Heat map: Displays data in a visually appealing heat map format, allowing for easy identification of trends and patterns.
+
+Lollipop chart: Provides a unique and visually appealing way to showcase data, making it easy to compare different data points.
+
+Line chart: Presents data trends over time using a line chart format, making it easy to identify patterns and changes.
+
+Modern and appealing design: The dashboard has been carefully designed to provide an aesthetically pleasing and user-friendly experience.
+
+Here's the [Tableau Public Link](https://public.tableau.com/app/profile/sameh.hasan/viz/Covid-19Analysis_16814255792100/Dashboard1)
 
 
 ### Conclusion
