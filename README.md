@@ -43,6 +43,16 @@ I inserted the query the website gave me, and there are now two main tables, cov
 ### Working with the data:
 Further analysis of the data can be done by querying the coviddeaths and covidvaccinations tables in MySQL. The SQL queries used in this analysis can be found in the script file.
 
+### Most important insights:
+
+One of the insights that intersted me was that the United States was the first country to start vaccinating it's citizens at 20/12/2020.
+
+The peak of the virus was at 7/21/2021 with 20,005 deaths worldwide.
+
+Highest deaths were in Europe exceeding 2 million deaths till this moment, followed by Asia and North America with about 1,700,000 deaths each.
+
+The death percentage worldwide 0.9% almost being 1% with 6,889,567 deaths 
+
 ### Tableau Dashboard:
 
 ![dashboard](Dashboard.jpg "dashboard")
