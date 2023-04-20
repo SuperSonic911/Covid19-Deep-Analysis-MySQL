@@ -55,7 +55,7 @@ The death percentage worldwide 0.9% almost being 1% with 6,889,567 deaths
 
 ### Tableau Dashboard:
 
-![dashboard](Dashboard.jpg "dashboard")
+![dashboard](dashboard.jpg "dashboard")
 This Tableau dashboard showcases visualizations for four queries that were pulled from the "tableau_queries.sql" file. Each query has its own visualization that has been thoughtfully selected, including a heat map, a lollipop chart, and a line chart for each country.
 
 The final dashboard has been designed to have a modern and appealing look, with all visualizations combined into one cohesive dashboard for easy viewing and analysis.
