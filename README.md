@@ -69,7 +69,7 @@ Line chart: Presents data trends over time using a line chart format, making it 
 
 Modern and appealing design: The dashboard has been carefully designed to provide an aesthetically pleasing and user-friendly experience.
 
-Here's the [Tableau Public Link](https://public.tableau.com/app/profile/sameh.hasan/viz/Covid-19Analysis_16814255792100/Dashboard1)
+Here's the [Tableau Public Link](https://public.tableau.com/app/profile/sameh.hasan/viz/Covid-19Analysis_16814255792100/ImprovedDashboard)
 
 
 ### Conclusion
